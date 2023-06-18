@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun launchSecondActivity(view: View) {
-        Log.d(LOG_TAG, "Tombol diklik")
+        Log.d(LOG_TAG, "Clicked")
 
         val message: String = messageEditText?.text.toString()
 
