@@ -51,7 +51,7 @@ class SecondActivity : AppCompatActivity() {
     override fun onDestroy(){
         super.onDestroy()
         Log.d(LOG_TAG, "onDestroy")
-        Log.d(LOG_TAG, "sesi telah berakhir")
+        Log.d(LOG_TAG, "Ended")
     }
 
     override fun onSaveInstanceState(outState: Bundle) {

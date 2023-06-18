@@ -54,11 +54,11 @@ class MainActivity : AppCompatActivity() {
     override fun onDestroy(){
         super.onDestroy()
         Log.d(LOG_TAG, "onDestroy")
-        Log.d(LOG_TAG, "sesi telah berakhir")
+        Log.d(LOG_TAG, "Ended")
     }
 
     fun launchSecondActivity(view: View) {
-        Log.d(LOG_TAG, "Tombol diklik")
+        Log.d(LOG_TAG, "Clicked")
 
         val message: String = messageEditText?.text.toString()
 
