@@ -10,7 +10,7 @@ class SecondActivity: AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_second)
 
-        supportActionBar?.setTitle("Halaman Kedua")
+        supportActionBar?.setTitle("Second")
 
         val tombolKembali = findViewById < Button > (R.id.kembali)
 
