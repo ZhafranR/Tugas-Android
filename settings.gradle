@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "materi_52"
+rootProject.name = "card"
 include ':app'
