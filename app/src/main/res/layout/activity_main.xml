@@ -10,21 +10,21 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/openUrlButton"
+        android:id="@+id/openAIButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Buka Youtube"
+        android:text="Buka OpenAI"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="16dp"
-        android:onClick="openYoutube" />
+        android:onClick="openAI" />
 
     <Button
-        android:id="@+id/openGoogleButton"
+        android:id="@+id/openScholarButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Buka Google"
+        android:text="Buka Scholar"
         android:layout_centerHorizontal="true"
-        android:layout_below="@id/openUrlButton"
-        android:onClick="openGoogle" />
+        android:layout_below="@id/openAIButton"
+        android:onClick="openScholar" />
 
 </RelativeLayout>

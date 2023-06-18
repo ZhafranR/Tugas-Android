@@ -12,15 +12,15 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 
-    fun openYoutube(view: View) {
+    fun openAI(view: View) {
         val intent = Intent(Intent.ACTION_VIEW)
-        intent.data = Uri.parse("https://www.youtube.com")
+        intent.data = Uri.parse("https://chat.openai.com")
         startActivity(intent)
     }
 
-    fun openGoogle(view: View) {
+    fun openScholar(view: View) {
         val intent = Intent(Intent.ACTION_VIEW)
-        intent.data = Uri.parse("https://www.google.com")
+        intent.data = Uri.parse("https://scholar.google.com")
         startActivity(intent)
     }
 }
