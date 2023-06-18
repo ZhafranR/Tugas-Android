@@ -22,12 +22,13 @@
 
     <string name="title_placeholder">Title</string>
     <string name="news_title">News</string>
-    <string name="sports_info_placeholder">Here is some news</string>
-    <string name="sports_news_detail_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
-        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
-        diam fringilla tellus, eu euismod mauris neque at neque.</string>
-    />
+    <string name="sports_info_placeholder">We have some news to share with you.</string>
+    <string name="sports_news_detail_text">Stay up to date with the latest happenings in the thrilling realm of sports! Stay connected to all the action,
+        from exhilarating games to remarkable achievements. We provide you with comprehensive coverage, ensuring you are well-informed about your beloved teams,
+        players, and tournaments. Immerse yourself in detailed analyses, expert perspectives, and captivating behind-the-scenes narratives. Whether its football,
+        basketball, cricket, tennis, or any other sport, we have all your interests covered. Dont let a single moment of heart-pounding excitement slip by.
+        Stay tuned for the most recent updates in the world of sports!</string>
+
 
     <string name="baseball">Baseball</string>
     <string name="badminton">Badminton</string>
